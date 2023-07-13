@@ -5,7 +5,9 @@ Nick Hoff
 
 ## How to run
 
-I've included a docker image `fetch_server.tar.gz`. You can download this file off of the repo and run it standalone.
+I made a docker image. The Java 11 docker base image is pretty large, so I can't actually upload the Docker image
+directly to the GitHub repo for size constraints. I've hosted it instead on Dropbox at:
+https://www.dropbox.com/s/593bfwwjaj4az4x/fetch_server.tar.gz?dl=0
 
 Run it with the following commands:
 ``` 
